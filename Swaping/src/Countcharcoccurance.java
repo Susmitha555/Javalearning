@@ -3,6 +3,8 @@ public class Countcharcoccurance {
 
 	public static void main(String[] args) {
 
+		
+		//nice one
 		String s="java java jaaa ";
 		
 		
